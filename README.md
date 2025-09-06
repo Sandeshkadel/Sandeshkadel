@@ -1,118 +1,79 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Sandesh Kadel</span></h1>
-<h3 align="center">🚀 Student | Leader @ TechCrafter | Full-Stack & Mobile Developer | Kathmandu, Nepal</h3>
+# 👋 Hi, I'm Sandesh Kadel  
 
----
+🚀 Student | Leader @ TechCrafters | Developer from Kathmandu, Nepal  
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Sandeshkadel">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Web+%26+Mobile+Developer;🚀+Exploring+AI+and+OS+Projects;🎯+Building+Creative+Coding+Experiences;🌐+TechCrafter+Leader" alt="Typing SVG" />
-  </a>
-</p>
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-100%25-success)
+![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-blue)
 
 ---
 
 ## 🔥 About Me
-- 💡 Passionate about **Web & Mobile Development**
-- 🎨 Love building **AI tools, OS projects, and Games**
-- 📱 Exploring **AI, iOS (Swift), and Android (Kotlin)**
-- 🌱 Lifelong learner, always experimenting with new technologies  
+- Passionate about **web & mobile development**  
+- Love building **creative coding projects** (AI, OS, Games, Apps)  
+- Currently exploring **AI, iOS, and Android Development**  
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,swift,kotlin,react,nodejs,tailwind,git,github,vscode,androidstudio,xcode" />
-</p>
+- 💻 Languages: Python, C, JavaScript, HTML, CSS, Kotlin, Swift  
+- 🌐 Web Dev: React, Tailwind, Node.js  
+- 📱 Mobile Dev: Swift (iOS), Kotlin (Android)  
+- ⚡ Tools: Git, GitHub, VS Code, Android Studio, Xcode  
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://sandeshkadel.github.io/Sportify/">
-        🎶 <b>Spotify</b>
-      </a><br/>
-      <sub>Spotify-like webapp with real functionality</sub><br/>
-      <img src="https://github.com/Sandeshkadel/Sportify/raw/main/demo.gif" width="250"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sandeshkadel/ThanderTube">
-        📺 <b>Thundertub</b>
-      </a><br/>
-      <sub>Android YouTube video downloader & player</sub><br/>
-      <img src="https://github.com/Sandeshkadel/ThanderTube/raw/main/demo.gif" width="250"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://sandeshkadel.github.io/NovaOs/">
-        💻 <b>NovaOS</b>
-      </a><br/>
-      <sub>AI-powered browser-based operating system</sub><br/>
-      <img src="https://github.com/Sandeshkadel/NovaOs/raw/main/demo.gif" width="250"/>
-    </td>
-    <td align="center">
-      <a href="https://sandeshkadel.github.io/DevVerse/">
-        🤖 <b>DevVerse</b>
-      </a><br/>
-      <sub>Collection of AI tools for developers</sub><br/>
-      <img src="https://github.com/Sandeshkadel/DevVerse/raw/main/demo.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+### 🎵 Spotify Clone  
+[Live Demo](https://sandeshkadel.github.io/Sportify/)  
+<img src="https://raw.githubusercontent.com/Sandeshkadel/Sportify/main/demo.gif" width="500"/>  
+
+📌 [View Project Roadmap](https://github.com/Sandeshkadel/Sportify/projects/1)
 
 ---
 
-## 📊 GitHub Analytics  
+### 🎬 ThunderTube  
+[Repo Link](https://github.com/Sandeshkadel/ThanderTube) – Android video downloader and player  
+<img src="https://raw.githubusercontent.com/Sandeshkadel/ThanderTube/main/demo.gif" width="500"/>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeshkadel&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeshkadel&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeshkadel&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+📌 [View Project Roadmap](https://github.com/Sandeshkadel/ThanderTube/projects/1)
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeshkadel&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+### 💻 NovaOS  
+[Live Demo](https://sandeshkadel.github.io/NovaOs/) – AI-powered browser OS  
+<img src="https://raw.githubusercontent.com/Sandeshkadel/NovaOs/main/demo.gif" width="500"/>  
+
+📌 [View Project Roadmap](https://github.com/Sandeshkadel/NovaOs/projects/1)
 
 ---
 
-## ✅ Build & Code Quality (Badges Example)
+### 🌐 DevVerse  
+[Live Demo](https://sandeshkadel.github.io/DevVerse/) – Collection of AI & tools  
+<img src="https://raw.githubusercontent.com/Sandeshkadel/DevVerse/main/demo.gif" width="500"/>  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/code%20quality-A%2B-blue?style=for-the-badge&logo=checkmarx" />
-  <img src="https://img.shields.io/badge/tests-100%25-success?style=for-the-badge&logo=jest" />
-</p>
+📌 [View Project Roadmap](https://github.com/Sandeshkadel/DevVerse/projects/1)
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sandeshkadel/Sandeshkadel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 📊 GitHub Stats
+![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeshkadel&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeshkadel&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandeshkadel&theme=tokyonight)  
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.sandeshkadel23.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-00CFFF?style=for-the-badge" /></a>
-  <a href="https://youtube.com/@Code_With_Sandesh"><img src="https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge" /></a>
-  <a href="mailto:sandeshkadel@gmail.com"><img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge" /></a>
-</p>
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Sandeshkadel/Sandeshkadel/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<p align="center">
-  ⭐️ *If you like my work, consider giving a star to my repositories!*
-</p>
+## 🌐 Connect With Me
+- 🌍 Portfolio: [sandeshkadel23.com.np](https://sandeshkadel23.com.np)  
+- 🎥 YouTube: [Code_With_Sandesh](https://youtube.com/@Code_With_Sandesh)  
+- 📧 Email: **sandeshkadel@gmail.com**  
+
+---
+
+⭐️ *If you like my work, consider giving a star to my repositories!*  
