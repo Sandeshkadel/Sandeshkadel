@@ -16,7 +16,7 @@
 ## 🔥 About Me
 - 💡 Passionate about **Web & Mobile Development**
 - 🎨 Love building **AI tools, OS projects, and Games**
-- 📱 Currently exploring **AI, iOS (Swift), and Android (Kotlin)**
+- 📱 Exploring **AI, iOS (Swift), and Android (Kotlin)**
 - 🌱 Lifelong learner, always experimenting with new technologies  
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 <table>
   <tr>
@@ -36,13 +36,15 @@
       <a href="https://sandeshkadel.github.io/Sportify/">
         🎶 <b>Spotify</b>
       </a><br/>
-      <sub>Spotify-like webapp with real functionality</sub>
+      <sub>Spotify-like webapp with real functionality</sub><br/>
+      <img src="https://github.com/Sandeshkadel/Sportify/raw/main/demo.gif" width="250"/>
     </td>
     <td align="center">
       <a href="https://github.com/Sandeshkadel/ThanderTube">
         📺 <b>Thundertub</b>
       </a><br/>
-      <sub>Android YouTube video downloader & player</sub>
+      <sub>Android YouTube video downloader & player</sub><br/>
+      <img src="https://github.com/Sandeshkadel/ThanderTube/raw/main/demo.gif" width="250"/>
     </td>
   </tr>
   <tr>
@@ -50,20 +52,22 @@
       <a href="https://sandeshkadel.github.io/NovaOs/">
         💻 <b>NovaOS</b>
       </a><br/>
-      <sub>AI-powered browser-based operating system</sub>
+      <sub>AI-powered browser-based operating system</sub><br/>
+      <img src="https://github.com/Sandeshkadel/NovaOs/raw/main/demo.gif" width="250"/>
     </td>
     <td align="center">
       <a href="https://sandeshkadel.github.io/DevVerse/">
         🤖 <b>DevVerse</b>
       </a><br/>
-      <sub>Collection of AI tools for developers</sub>
+      <sub>Collection of AI tools for developers</sub><br/>
+      <img src="https://github.com/Sandeshkadel/DevVerse/raw/main/demo.gif" width="250"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandeshkadel&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -76,18 +80,35 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sandeshkadel&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## ✅ Build & Code Quality (Badges Example)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/code%20quality-A%2B-blue?style=for-the-badge&logo=checkmarx" />
+  <img src="https://img.shields.io/badge/tests-100%25-success?style=for-the-badge&logo=jest" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sandeshkadel/Sandeshkadel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.sandeshkadel23.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-00CFFF?style=for-the-badge" /></a>
   <a href="https://youtube.com/@Code_With_Sandesh"><img src="https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge" /></a>
-  <a href="mailto:sandeshkadel2314@gmail.com"><img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge" /></a>
+  <a href="mailto:sandeshkadel@gmail.com"><img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge" /></a>
 </p>
 
 ---
