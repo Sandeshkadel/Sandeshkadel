@@ -1,13 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Sandesh Kadel</span></h1>
-<h3 align="center">🚀 Student | Leader @ TechCrafter | Full-Stack & Mobile Developer | Kathmandu, Nepal</h3>
+<h3 align="center">🚀 Student | Leader | Full-Stack & Mobile Developer | Kathmandu, Nepal</h3>
 
 ---
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Sandeshkadel">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Web+%26+Mobile+Developer;🚀+Exploring+AI+and+OS+Projects;🎯+Building+Creative+Coding+Experiences;🌐+TechCrafter+Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Web+%26+Mobile+Developer;🚀+Exploring+AI+and+OS+Projects;🎯+Building+Creative+Coding+Experiences;🌐Leader" alt="Typing SVG" />
   </a>
 </p>
 
