@@ -112,9 +112,6 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.sandeshkadel23.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-00CFFF?style=for-the-badge" /></a>
-  <a href="https://youtube.com/@Code_With_Sandesh"><img src="https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge" /></a>
-  <a href="mailto:sandeshkadel@gmail.com"><img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge" /></a>
   <a href="https://github.com/Sandeshkadel"><img src="https://img.shields.io/badge/🐙_GitHub-171515?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/sandeshkadel"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" /></a>
 </p>
