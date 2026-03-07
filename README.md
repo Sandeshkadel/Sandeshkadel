@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Sandeshkadel">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Web+%26+Mobile+Developer;🚀+Exploring+AI+and+OS+Projects;🎯+Building+Creative+Coding+Experiences;🌐Leader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Web+%26+Mobile+Developer;🚀+Exploring+AI+and+OS+Projects;🎯+Building+Creative+Coding+Experiences;🌐Leader;🎮+Game+Dev+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,8 @@
 - 💡 Passionate about **Web & Mobile Development**
 - 🎨 Love building **AI tools, OS projects, and Games**
 - 📱 Exploring **AI, iOS (Swift), and Android (Kotlin)**
-- 🌱 Lifelong learner, always experimenting with new technologies  
+- 🌱 Lifelong learner, always experimenting with new technologies
+- 🤝 Organizer of Hack Club event **Scrapyard Kathmandu**
 
 ---
 
@@ -34,7 +35,7 @@
   <tr>
     <td align="center">
       <a href="https://sandeshkadel.github.io/Sportify/">
-        🎶 <b>Spotify</b>
+        🎶 <b>Spotify Clone</b>
       </a><br/>
       <sub>Spotify-like webapp with real functionality</sub><br/>
       <img src="https://github.com/Sandeshkadel/Sportify/raw/main/demo.gif" width="250"/>
@@ -44,7 +45,7 @@
       <a href="https://github.com/Sandeshkadel/ThanderTube">
         📺 <b>Thundertub</b>
       </a><br/>
-      <sub>Android YouTube video downloader & player</sub><br/>
+      <sub>Android YouTube downloader & player</sub><br/>
       <img src="https://github.com/Sandeshkadel/ThanderTube/raw/main/demo.gif" width="250"/>
       <br/>📌 <a href="https://github.com/Sandeshkadel/ThanderTube/projects/1">View Roadmap</a>
     </td>
@@ -65,6 +66,31 @@
       <sub>Collection of AI tools for developers</sub><br/>
       <img src="https://github.com/Sandeshkadel/DevVerse/raw/main/demo.gif" width="250"/>
       <br/>📌 <a href="https://github.com/Sandeshkadel/DevVerse/projects/1">View Roadmap</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://sandeshkadel23.com.np/assets/images/Hackclub.jpg">
+        🏗️ <b>Scrapyard Kathmandu</b>
+      </a><br/>
+      <sub>Hack Club event organized for coders & teens</sub><br/>
+      <img src="https://sandeshkadel23.com.np/assets/images/Hackclub.jpg" width="250"/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sandeshkadel/LudoKing">
+        🎲 <b>Ludo King App</b>
+      </a><br/>
+      <sub>Ludo game with winner selection module (work in progress)</sub><br/>
+      <img src="https://github.com/Sandeshkadel/LudoKing/raw/main/demo.gif" width="250"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        🔔 <b>Ghanti Awareness App</b>
+      </a><br/>
+      <sub>Application to raise awareness for social causes</sub><br/>
+      <img src="https://github.com/Sandeshkadel/Ghanti/raw/main/demo.gif" width="250"/>
     </td>
   </tr>
 </table>
@@ -114,6 +140,8 @@
 <p align="center">
   <a href="https://github.com/Sandeshkadel"><img src="https://img.shields.io/badge/🐙_GitHub-171515?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/sandeshkadel"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/sandeshkadel/"><img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge" /></a>
+  <a href="https://twitter.com/sandeshkadel"><img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge" /></a>
 </p>
 
 ---
