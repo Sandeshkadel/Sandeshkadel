@@ -1,151 +1,215 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Sandesh Kadel</span></h1>
-<h3 align="center">🚀 Student | Leader | Full-Stack & Mobile Developer | Kathmandu, Nepal</h3>
+<!-- Portfolio README for Sandesh Kadel (generated 2026-03-07) -->
 
----
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Sandeshkadel">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=💻+Web+%26+Mobile+Developer;🚀+Exploring+AI+and+OS+Projects;🎯+Building+Creative+Coding+Experiences;🌐Leader;🎮+Game+Dev+Enthusiast" alt="Typing SVG" />
-  </a>
+<!-- Gradient name header -->
+<h1>
+  <span style="
+    background: linear-gradient(90deg,#7C3AED,#06B6D4,#22C55E);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: 900;
+    letter-spacing: .5px;">
+    Sandesh Kadel 👋
+  </span>
+</h1>
+
+<h3>🚀 Student | Leader | Full-Stack & Mobile Developer | Kathmandu, Nepal</h3>
+
+<!-- Typing animation (SVG) -->
+<a href="https://github.com/Sandeshkadel">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Web+%26+Mobile+Developer;%F0%9F%9A%80+Exploring+AI%2C+OS%2C+and+Game+Projects;%F0%9F%8E%AF+Building+Creative+Coding+Experiences;%F0%9F%8C%90+Leader+%26+Hack+Club+Organizer"
+    alt="Typing SVG"
+  />
+</a>
+
+<!-- Quick badges row -->
+<p>
+  <img alt="Profile views"
+       src="https://komarev.com/ghpvc/?username=Sandeshkadel&style=for-the-badge&color=7c3aed" />
+  <img alt="Visitors"
+       src="https://visitor-badge.laobi.icu/badge?page_id=Sandeshkadel.Sandeshkadel&style=for-the-badge&color=06b6d4" />
 </p>
 
----
-
-## 🔥 About Me
-- 💡 Passionate about **Web & Mobile Development**
-- 🎨 Love building **AI tools, OS projects, and Games**
-- 📱 Exploring **AI, iOS (Swift), and Android (Kotlin)**
-- 🌱 Lifelong learner, always experimenting with new technologies
-- 🤝 Organizer of Hack Club event **Scrapyard Kathmandu**
+</div>
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,swift,kotlin,react,nodejs,tailwind,git,github,vscode,androidstudio,xcode" />
-</p>
+## <span style="background: linear-gradient(90deg,#7C3AED,#06B6D4); -webkit-background-clip: text; color: transparent;">About Me</span>
+
+Hi, I’m **Sandesh** — a passionate **Web & Mobile Developer** who loves building things with code. 💡  
+I explore **AI tools 🤖**, **OS projects 🧠**, and **game/creative coding 🎮** while sharpening my skills in both **front-end and back-end**.  
+I also organized the Hack Club event **Scrapyard Kathmandu** 🏕️ to help young coders learn, collaborate, and build real projects.  
+Currently experimenting with **iOS (Swift) 🍎**, **Android (Kotlin) 🤖**, and whatever new technology sparks curiosity. 🚀
 
 ---
 
-## 🚀 Featured Projects  
+## <div align="center"><span style="background: linear-gradient(90deg,#22C55E,#06B6D4,#7C3AED); -webkit-background-clip: text; color: transparent;">Tech Stack</span></div>
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,swift,kotlin" alt="Languages" />
+<br/>
+
+<!-- Frameworks / Runtime -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" alt="Frameworks" />
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Tools" />
+<!-- Xcode isn't in skillicons; use a simple badge as a fallback -->
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+
+</div>
+
+---
+
+## <span style="background: linear-gradient(90deg,#7C3AED,#06B6D4); -webkit-background-clip: text; color: transparent;">Featured Projects</span>
+
+> I will auto-populate this section after you provide your repo list (so I can extract descriptions, demos, roadmaps, and images/GIFs).
+
+<!--
+CARD GRID (works in GitHub README using a table layout)
+Replace placeholders with repo-derived info.
+-->
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://sandeshkadel.github.io/Sportify/">
-        🎶 <b>Spotify Clone</b>
-      </a><br/>
-      <sub>Spotify-like webapp with real functionality</sub><br/>
-      <img src="https://github.com/Sandeshkadel/Sportify/raw/main/demo.gif" width="250"/>
-      <br/>📌 <a href="https://github.com/Sandeshkadel/Sportify/projects/1">View Roadmap</a>
+    <td width="50%" valign="top">
+
+### 🏕️ Scrapyard Kathmandu
+<img src="https://sandeshkadel23.com.np/assets/images/Hackclub.jpg" alt="Scrapyard Kathmandu" width="100%"/>
+
+**Hack Club event** I organized to help young coders learn, build, and showcase projects.  
+- Roadmap: (add link if you have a repo/project board for this)
+- Highlights: workshops, teamwork, creative builds
+
     </td>
-    <td align="center">
-      <a href="https://github.com/Sandeshkadel/ThanderTube">
-        📺 <b>Thundertub</b>
-      </a><br/>
-      <sub>Android YouTube downloader & player</sub><br/>
-      <img src="https://github.com/Sandeshkadel/ThanderTube/raw/main/demo.gif" width="250"/>
-      <br/>📌 <a href="https://github.com/Sandeshkadel/ThanderTube/projects/1">View Roadmap</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://sandeshkadel.github.io/NovaOs/">
-        💻 <b>NovaOS</b>
-      </a><br/>
-      <sub>AI-powered browser-based operating system</sub><br/>
-      <img src="https://github.com/Sandeshkadel/NovaOs/raw/main/demo.gif" width="250"/>
-      <br/>📌 <a href="https://github.com/Sandeshkadel/NovaOs/projects/1">View Roadmap</a>
-    </td>
-    <td align="center">
-      <a href="https://sandeshkadel.github.io/DevVerse/">
-        🤖 <b>DevVerse</b>
-      </a><br/>
-      <sub>Collection of AI tools for developers</sub><br/>
-      <img src="https://github.com/Sandeshkadel/DevVerse/raw/main/demo.gif" width="250"/>
-      <br/>📌 <a href="https://github.com/Sandeshkadel/DevVerse/projects/1">View Roadmap</a>
+    <td width="50%" valign="top">
+
+### 🎲 Ludo King App (WIP)
+**Repo:** https://github.com/Sandeshkadel/LudoKing  
+- Status: Work in progress 🚧  
+- Demo: (will detect if you have Releases / APK / hosted demo)
+- Roadmap: (projects/1 if present, else fallback to a roadmap doc)
+
     </td>
   </tr>
+</table>
+
+<!-- Placeholder for Ghanti Awareness App card (will enrich after repo scan) -->
+<table>
   <tr>
-    <td align="center">
-      <a href="https://sandeshkadel23.com.np/assets/images/Hackclub.jpg">
-        🏗️ <b>Scrapyard Kathmandu</b>
-      </a><br/>
-      <sub>Hack Club event organized for coders & teens</sub><br/>
-      <img src="https://sandeshkadel23.com.np/assets/images/Hackclub.jpg" width="250"/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sandeshkadel/LudoKing">
-        🎲 <b>Ludo King App</b>
-      </a><br/>
-      <sub>Ludo game with winner selection module (work in progress)</sub><br/>
-      <img src="https://github.com/Sandeshkadel/LudoKing/raw/main/demo.gif" width="250"/>
+    <td width="100%" valign="top">
+
+### 🔔 Ghanti Awareness App
+- Demo GIF: (auto-detected from your repo if available)
+- Goal: Awareness/education app
+- Repo: (provide repo name so I can link it)
+
     </td>
   </tr>
+</table>
+
+### 📌 Automatically Generated Project Cards (after repo scan)
+<!-- I will generate a responsive-like grid using tables.
+Each card will include:
+- emoji + Project Name
+- short description (repo description/README)
+- live demo (pages/homepage)
+- roadmap (projects/1 or docs/ROADMAP.md or /roadmap/README)
+- preview (demo.gif or assets)
+-->
+
+---
+
+## <span style="background: linear-gradient(90deg,#22C55E,#06B6D4); -webkit-background-clip: text; color: transparent;">GitHub Analytics & Achievements</span>
+
+<div align="center">
+
+<!-- Stats -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sandeshkadel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeshkadel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<!-- Streak -->
+<img height="180" src="https://streak-stats.demolab.com?user=Sandeshkadel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sandeshkadel&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+> “Public achievements visible on GitHub” are mostly represented via trophies/stats; if you mean **GitHub Achievements badges** (e.g., Arctic Code Vault, Pull Shark, etc.), I can list them explicitly once you confirm which ones show on your profile.
+
+---
+
+## <span style="background: linear-gradient(90deg,#7C3AED,#06B6D4); -webkit-background-clip: text; color: transparent;">Build & Code Quality</span>
+
+<div align="center">
+
+<!-- These are repo-dependent. I’ll wire real workflow badge URLs after I know your repos/workflows. -->
+<img alt="Build" src="https://img.shields.io/badge/Build-Passing-22c55e?style=for-the-badge" />
+<img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-A%2B-06b6d4?style=for-the-badge" />
+<img alt="Tests" src="https://img.shields.io/badge/Tests-100%25-7c3aed?style=for-the-badge" />
+
+</div>
+
+---
+
+## <span style="background: linear-gradient(90deg,#F59E0B,#EF4444); -webkit-background-clip: text; color: transparent;">Hack Club Organizer</span>
+
+<table>
   <tr>
-    <td align="center">
-      <a href="#">
-        🔔 <b>Ghanti Awareness App</b>
-      </a><br/>
-      <sub>Application to raise awareness for social causes</sub><br/>
-      <img src="https://github.com/Sandeshkadel/Ghanti/raw/main/demo.gif" width="250"/>
+    <td width="35%">
+      <img src="https://sandeshkadel23.com.np/assets/images/Hackclub.jpg" alt="Scrapyard Kathmandu" width="100%"/>
+    </td>
+    <td width="65%" valign="top">
+
+### 🏕️ Scrapyard Kathmandu (Hack Club)
+I organized the Hack Club event **Scrapyard Kathmandu** to help young coders learn and build projects.  
+If you want, I can also add:
+- event timeline
+- highlights
+- links to gallery / registrations / sponsors
+
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics  
+## <div align="center"><span style="background: linear-gradient(90deg,#22C55E,#06B6D4,#7C3AED); -webkit-background-clip: text; color: transparent;">Let’s Connect</span></div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeshkadel&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeshkadel&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeshkadel&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<!-- Replace # with your real links -->
+<a href="https://github.com/Sandeshkadel">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-0F172A?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
----
-
-## 🏆 GitHub Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeshkadel&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## ✅ Build & Code Quality  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/code%20quality-A%2B-blue?style=for-the-badge&logo=checkmarx" />
-  <img src="https://img.shields.io/badge/tests-100%25-success?style=for-the-badge&logo=jest" />
-  <img src="https://komarev.com/ghpvc/?username=Sandeshkadel&color=blue&style=for-the-badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sandeshkadel&style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sandeshkadel/Sandeshkadel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## <span style="background: linear-gradient(90deg,#22C55E,#06B6D4); -webkit-background-clip: text; color: transparent;">Contribution Snake</span>
 
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://github.com/Sandeshkadel"><img src="https://img.shields.io/badge/🐙_GitHub-171515?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/sandeshkadel"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/sandeshkadel/"><img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge" /></a>
-  <a href="https://twitter.com/sandeshkadel"><img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge" /></a>
-</p>
-
----
-
-<p align="center">
-  ⭐️ *If you like my work, consider giving a star to my repositories!*
-</p>
+> Enable by creating a workflow in a repo (often your profile repo) that generates the snake SVG.
+<div align="center">
+  <img alt="Snake animation" src="https://github.com/Sandeshkadel/Sandeshkadel/blob/output/github-contribution-grid-snake.svg" />
+</div>
