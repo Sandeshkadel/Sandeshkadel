@@ -1,5 +1,3 @@
-
-
 <!-- HERO (everything in one place) -->
 <div align="center">
 
@@ -14,7 +12,23 @@
   <img src="https://komarev.com/ghpvc/?username=Sandeshkadel&style=for-the-badge&color=00CFFF" alt="Profile Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sandeshkadel.Sandeshkadel&style=for-the-badge&color=00CFFF" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/Sandeshkadel?style=for-the-badge&color=00CFFF&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Sandeshkadel?style=for-the-badge&color=00CFFF&label=Stars" alt="Stars" />
+
+  <!-- ⭐ FIXED: stars badges must be owner/repo (or they won't show correctly) -->
+  <a href="https://github.com/Sandeshkadel/Sportify/stargazers">
+    <img src="https://img.shields.io/github/stars/Sandeshkadel/Sportify?style=for-the-badge&color=00CFFF&label=Sportify%20Stars" alt="Sportify Stars" />
+  </a>
+  <a href="https://github.com/Sandeshkadel/DevVerse/stargazers">
+    <img src="https://img.shields.io/github/stars/Sandeshkadel/DevVerse?style=for-the-badge&color=00CFFF&label=DevVerse%20Stars" alt="DevVerse Stars" />
+  </a>
+  <a href="https://github.com/Sandeshkadel/NovaOs/stargazers">
+    <img src="https://img.shields.io/github/stars/Sandeshkadel/NovaOs?style=for-the-badge&color=00CFFF&label=NovaOS%20Stars" alt="NovaOS Stars" />
+  </a>
+  <a href="https://github.com/Sandeshkadel/ThanderTube/stargazers">
+    <img src="https://img.shields.io/github/stars/Sandeshkadel/ThanderTube?style=for-the-badge&color=00CFFF&label=ThanderTube%20Stars" alt="ThanderTube Stars" />
+  </a>
+  <a href="https://github.com/Sandeshkadel/LudoKing/stargazers">
+    <img src="https://img.shields.io/github/stars/Sandeshkadel/LudoKing?style=for-the-badge&color=00CFFF&label=LudoKing%20Stars" alt="LudoKing Stars" />
+  </a>
 </p>
 
 <!-- Typing Animation -->
