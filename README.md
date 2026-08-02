@@ -53,10 +53,6 @@
       <img src="https://sandeshkadel23.com.np/assets/images/Autonomus.jpg" alt="Autonomous Care" width="100%" />
       <sub><b>🩺 Autonomous Care</b><br/>Project Highlight</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="Sandeskhadelcertificates.png" alt="Introduction to Software Engineering" width="100%" />
-      <sub><b>Introduction to Software Engineering</b><br/>Project Highlight</sub>
-    </td>
   </tr>
 </table>
 
